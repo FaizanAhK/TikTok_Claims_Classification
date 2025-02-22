@@ -23,18 +23,3 @@ This activity has 4 parts:
 ### Part 4: Evaluate and share results.
 
 
-## Performing EDA
-
-Importing helpful packages such as `pandas`, `numpy`, `matplotlib.pyplot` and `seaborn`
-
-```python
-# Import packages for data manipulation
-import pandas as pd
-import numpy as np
-
-# Import packages for data visualization
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-
-Loading and reading the dataset
