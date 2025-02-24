@@ -24,7 +24,7 @@ This activity has 4 parts:
 ### Part 4: Evaluate and share results.
 
 # You can find my Python Codes [here](Tiktok_Claims_Classification.ipynb)
-# You can find my Summarized report here
+# You can find my Summarized report [here](Tiktok_claims_classification_report.pdf)
 
 ## Insights Gained : -
 
